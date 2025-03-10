@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I take care of around 50 plants. Raising plants and software development are similar in certain ways. There are a lot of variables in deciding how to take care of you plants, which tools to use depend not only on the type of plant but the environment within which you want it to thrive.I take care of around 50 plants. Raising plants and software development are similar in certain ways. There are a lot of variables in deciding how to take care of you plants, which tools to use depend not only on the type of plant but the environment within which you want it to thrive.
+
 <!--
 **jordodrummer/jordodrummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
